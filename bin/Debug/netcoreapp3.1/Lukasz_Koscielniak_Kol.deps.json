@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lukasz_Koscielniak_Kol/1.0.0": {
+        "runtime": {
+          "Lukasz_Koscielniak_Kol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lukasz_Koscielniak_Kol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

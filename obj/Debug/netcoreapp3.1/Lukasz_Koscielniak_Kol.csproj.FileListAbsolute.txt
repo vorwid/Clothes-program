@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Lukasz_Koscielniak_Kol\bin\Debug\netcoreapp3.1\Lukasz_Koscielniak_Kol.exe
+C:\Users\Student\source\repos\Lukasz_Koscielniak_Kol\bin\Debug\netcoreapp3.1\Lukasz_Koscielniak_Kol.deps.json
+C:\Users\Student\source\repos\Lukasz_Koscielniak_Kol\bin\Debug\netcoreapp3.1\Lukasz_Koscielniak_Kol.runtimeconfig.json
+C:\Users\Student\source\repos\Lukasz_Koscielniak_Kol\bin\Debug\netcoreapp3.1\Lukasz_Koscielniak_Kol.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Lukasz_Koscielniak_Kol\bin\Debug\netcoreapp3.1\Lukasz_Koscielniak_Kol.dll
+C:\Users\Student\source\repos\Lukasz_Koscielniak_Kol\bin\Debug\netcoreapp3.1\Lukasz_Koscielniak_Kol.pdb
+C:\Users\Student\source\repos\Lukasz_Koscielniak_Kol\obj\Debug\netcoreapp3.1\Lukasz_Koscielniak_Kol.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Lukasz_Koscielniak_Kol\obj\Debug\netcoreapp3.1\Lukasz_Koscielniak_Kol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Lukasz_Koscielniak_Kol\obj\Debug\netcoreapp3.1\Lukasz_Koscielniak_Kol.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Lukasz_Koscielniak_Kol\obj\Debug\netcoreapp3.1\Lukasz_Koscielniak_Kol.AssemblyInfo.cs
+C:\Users\Student\source\repos\Lukasz_Koscielniak_Kol\obj\Debug\netcoreapp3.1\Lukasz_Koscielniak_Kol.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Lukasz_Koscielniak_Kol\obj\Debug\netcoreapp3.1\Lukasz_Koscielniak_Kol.dll
+C:\Users\Student\source\repos\Lukasz_Koscielniak_Kol\obj\Debug\netcoreapp3.1\Lukasz_Koscielniak_Kol.pdb
+C:\Users\Student\source\repos\Lukasz_Koscielniak_Kol\obj\Debug\netcoreapp3.1\Lukasz_Koscielniak_Kol.genruntimeconfig.cache
